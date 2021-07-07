@@ -40,7 +40,9 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 
 # Certificates
 
-![Image Title](./Natural-Language-Processing-Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Certificate.pdf){width=65%}
+![Image of Yaktocat](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Certificate.png)
+
+<!-- <img src="Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Certificate.png" width="800"> -->
 
 
 
