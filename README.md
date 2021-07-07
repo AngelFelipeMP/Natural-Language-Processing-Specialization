@@ -10,10 +10,10 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 
 ## Course 1: NLP with Classification and Vector Spaces
 
-* [Week 1: Sentiment Analysis with Logistic Regression](/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week1): Learn to extract features from text into numerical vectors, then build a binary classifier for tweets using logistic regression.
-* [Week 2: Sentiment Analysis with Naïve Bayes](/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2): Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier.
-* [Week 3: Vector Space Models](/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3): Vector space models capture semantic meaning and relationships between words. Learn how to create word vectors that capture dependencies between words, then visualize their relationships in two dimensions using PCA.
-* [Week 4 : Machine Translation and Document Search](/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4): Learn to transform word vectors and assign them to subsets using locality sensitive hashing, in order to perform machine translation and document search.
+* [Week 1: Sentiment Analysis with Logistic Regression](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week1): Learn to extract features from text into numerical vectors, then build a binary classifier for tweets using logistic regression.
+* [Week 2: Sentiment Analysis with Naïve Bayes](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week2): Learn the theory behind Bayes' rule for conditional probabilities, then apply it toward building a Naive Bayes tweet classifier.
+* [Week 3: Vector Space Models](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week3): Vector space models capture semantic meaning and relationships between words. Learn how to create word vectors that capture dependencies between words, then visualize their relationships in two dimensions using PCA.
+* [Week 4 : Machine Translation and Document Search](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week4): Learn to transform word vectors and assign them to subsets using locality sensitive hashing, in order to perform machine translation and document search.
 
 
 ## Course 2: NLP with Probabilistic Models
@@ -41,6 +41,10 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 # Certificates
 
 ![Image of Yaktocat](Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Certificate.png)
+
+## Milestones
+
+* Finished the first-released 1 course! :sunglasses:
 
 <!-- <img src="Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Certificate.png" width="800"> -->
 
